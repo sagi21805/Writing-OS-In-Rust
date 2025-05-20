@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Writing Operating System In Rust!](README.md)
 
 ## Getting Started
 
