@@ -55,8 +55,4 @@ The base things that I expect you to know are:
 10. Running our first program!
 11. To be continued (Hopefully virtualization section and loading a vm of other OS)
 
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
-
 [^1]: Defiantly not a star wars reference
